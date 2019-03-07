@@ -24,7 +24,7 @@ export class PersonTableComponent implements OnInit {
 
   init() {
     //get data to be used late
-    const data = JSON.parse(localStorage.getItem("items"));
+    const data = JSON.parse(localStorage.getItem("person-items"));
     if (!data) {
       alert("No data to display");
       return;

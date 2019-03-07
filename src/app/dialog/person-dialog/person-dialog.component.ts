@@ -1,7 +1,7 @@
 import { Component, OnInit, Inject } from '@angular/core';
 import { MatDialogRef, MAT_DIALOG_DATA } from "@angular/material/dialog";
 import { person } from "src/app/person-form/person-information/person";
-import { PersonInformationComponent } from "../../person-form/person-information/person-information.component"
+import { PersonInformationComponent } from "../../person-form/person-information/person-information.component";
 
 
 @Component({
