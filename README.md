@@ -1,10 +1,10 @@
 # Assignment
 
-Add an ID to objects to make searching easier
-Add a car form and table to display it
-create a module for the dialogs
-move add, edit, and delete to a service
-reoganize the project with better names
+Add an ID to objects to make searching easier,
+Add a car form and table to display it,
+create a module for the dialogs,
+move add, edit, and delete to a service,
+reoganize the project with better names,
 
 # PracticeForm
 
