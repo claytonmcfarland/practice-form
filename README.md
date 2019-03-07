@@ -1,3 +1,11 @@
+# Assignment
+
+Add an ID to objects to make searching easier
+Add a car form and table to display it
+create a module for the dialogs
+move add, edit, and delete to a service
+reoganize the project with better names
+
 # PracticeForm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
